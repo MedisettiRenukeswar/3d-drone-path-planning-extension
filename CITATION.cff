@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or benchmark, please cite it as below."
+type: software
+title: "3D Drone Path Planning — Comparative Benchmark of A*, RRT*, Informed RRT*"
+abstract: >
+  A reproducible Monte Carlo benchmark comparing A*, RRT*, and Informed RRT*
+  for autonomous drone navigation in 3D voxel environments. 630 planning trials
+  across 7 environment families and 3 obstacle densities. Includes corrected
+  Karaman-Frazzoli rewire radius, SVD ellipsoidal sampler, density-controlled
+  environment generator, five path quality metrics, and real-time visualiser.
+authors:
+  - family-names: Medisetti
+    given-names: Renukeswar
+    email: medisettirenukeswar83@gmail.com
+repository-code: "https://github.com/MedisettiRenukeswar/3d-drone-path-planning"
+license: MIT
+version: "1.0.0"
+date-released: "2025-06-01"
+keywords:
+  - motion planning
+  - path planning
+  - RRT-star
+  - Informed RRT-star
+  - A-star
+  - drone navigation
+  - UAV
+  - 3D occupancy grid
+  - voxel
+  - Monte Carlo benchmark
+  - robotics
+  - autonomous navigation
