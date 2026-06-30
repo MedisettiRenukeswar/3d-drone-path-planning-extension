@@ -254,3 +254,11 @@ No ROS. No Gazebo. No GPU. Pure Python.
 ## License
 
 MIT — see [LICENSE](LICENSE)
+
+## Publication
+
+📄 Paper: Comparative Evaluation of Classical Motion Planners for Autonomous Drone Navigation in 3D Voxel Environments  
+DOI: https://doi.org/10.13140/RG.2.2.17095.66723
+
+## Summary
+This repository benchmarks A*, RRT*, and Informed RRT* across 3D voxel environments with reproducible Monte Carlo evaluation.
